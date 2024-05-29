@@ -5,7 +5,7 @@ export default function Footer() {
     <p>
       This project was coded by{" "}
       <a href="https://github.com/imanfsx" target="_blank" rel="noreferrer">
-        IMAN SOHAIL
+        Iman Sohail 💗
       </a>
       , is open-sourced on{" "}
       <a href="" target="_blank" rel="noreferrer">
