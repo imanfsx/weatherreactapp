@@ -8,12 +8,12 @@ export default function Footer() {
         Iman Sohail 💗
       </a>
       , is open-sourced on{" "}
-      <a href="" target="_blank" rel="noreferrer">
+      <a href="https://github.com/imanfsx" target="_blank" rel="noreferrer">
         GitHub
       </a>{" "}
-      and hosted on{" "}
+      and hosted on{"https://weatherreactapp.vercel.app/"}
       <a href="" target="_blank" rel="noreferrer">
-        Netlify
+        Vercel
       </a>
     </p>
   );
